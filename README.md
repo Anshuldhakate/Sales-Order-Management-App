@@ -2,7 +2,7 @@
 
 This is a Sale Order Management application built with React, Chakra UI, and React Query. The app allows users to create, manage, and move sale orders to a completed state.
 
-# Deployed Link- https://celadon-tiramisu-a2e54e.netlify.app
+<h3> Deployed Link- https://celadon-tiramisu-a2e54e.netlify.app</h3>
 <img width="941" alt="features1" src="https://github.com/Anshuldhakate/Sales-Order-Management-App/assets/123949154/3f5e1a16-c617-4243-be4e-b6429a3fd44b">
 
 <br/>
