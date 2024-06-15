@@ -2,6 +2,14 @@
 
 This is a Sale Order Management application built with React, Chakra UI, and React Query. The app allows users to create, manage, and move sale orders to a completed state.
 
+
+<img width="941" alt="features1" src="https://github.com/Anshuldhakate/Sales-Order-Management-App/assets/123949154/3f5e1a16-c617-4243-be4e-b6429a3fd44b">
+
+<br/>
+
+<img width="959" alt="Screenshot 2024-06-15 155330" src="https://github.com/Anshuldhakate/Sales-Order-Management-App/assets/123949154/bf8f1eaf-f50b-4654-bb9e-ac0ba8616205">
+
+
 ## Table of Contents
 
 - [Installation](#installation)
