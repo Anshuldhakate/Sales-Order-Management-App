@@ -17,7 +17,7 @@ This is a Sale Order Management application built with React, Chakra UI, and Rea
 - [API Reference](#api-reference)
 - [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Installation
 
@@ -97,3 +97,18 @@ This is a Sale Order Management application built with React, Chakra UI, and Rea
     "customer_name": "string",
     "invoice_date": "YYYY-MM-DD"
   }
+
+ ## Features
+ - Create, edit, delete, and move sale orders.
+ - View active and completed sale orders.
+ - Responsive design using Chakra UI.
+   
+## Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your code follows the project's coding standards and includes tests if applicable.
+
+### Steps to Contribute
+- Fork the repository.
+- Create a new branch (git checkout -b feature-branch).
+- Commit your changes (git commit -am 'Add new feature').
+- Push to the branch (git push origin feature-branch).
+- Create a new Pull Request.
