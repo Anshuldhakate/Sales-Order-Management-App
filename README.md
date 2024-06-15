@@ -22,7 +22,7 @@ This is a Sale Order Management application built with React, Chakra UI, and Rea
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/sale-order-management.git
+    git clone https://github.com/Anshuldhakate/Sales-Order-Management-App.git
     ```
 
 2. Navigate to the project directory:
