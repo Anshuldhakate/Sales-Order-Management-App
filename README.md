@@ -25,7 +25,7 @@ This is a Sale Order Management application built with React, Chakra UI, and Rea
 
 - Node.js and npm installed on your machine.
 - Username- admin
-- Password- password
+- Password- admin123
 
 ### Steps
 
